@@ -1,4 +1,4 @@
-# Job Portal Application
+# TalentTrove Website
 
 Welcome to TalentTrove Website repositoty. TalentTrove is a dynamic web application to bridge the gap between job seekers nad employers. This platform provides an intuitive and user-friendly interface where users can search for jobs, post job opening and manage application with ease.
 
@@ -44,5 +44,5 @@ This Talenttrove Application is designed to streamline the hiring process. Emplo
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/job-portal-app.git
-   cd job-portal-app
+   git clone https://github.com/ganesh-kurhe/TalentTrove.git
+   cd TalentTrove
