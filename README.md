@@ -46,3 +46,15 @@ This Talenttrove Application is designed to streamline the hiring process. Emplo
    ```bash
    git clone https://github.com/ganesh-kurhe/TalentTrove.git
    cd TalentTrove
+
+2. **Install dependencies**:
+   npm install
+
+3. **Set up environment variables: Create a .env file in the root directory and add the following**:
+   DB_URI=your_database_uri
+   JWT_SECRET=your_secret_key
+   PORT=5000
+   
+4. **Run the application**:
+   npm start
+ 
