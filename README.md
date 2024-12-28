@@ -1,6 +1,6 @@
 # Job Portal Application
 
-A feature-rich job portal application that connects job seekers with employers, facilitating seamless job postings, applications, and hiring processes.
+Welcome to TalentTrove Website repositoty. TalentTrove is a dynamic web application to bridge the gap between job seekers nad employers. This platform provides an intuitive and user-friendly interface where users can search for jobs, post job opening and manage application with ease.
 
 ---
 
@@ -10,18 +10,11 @@ A feature-rich job portal application that connects job seekers with employers, 
 2. [Features](#features)
 3. [Tech Stack](#tech-stack)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Screenshots](#screenshots)
-7. [Future Enhancements](#future-enhancements)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Acknowledgements](#acknowledgements)
-
 ---
 
 ## Overview
 
-This Job Portal Application is designed to streamline the hiring process. Employers can post job openings and review applications, while job seekers can create profiles, upload resumes, and apply to jobs that match their skills and interests.
+This Talenttrove Application is designed to streamline the hiring process. Employers can post job openings and review applications, while job seekers can create profiles, upload resumes, and apply to jobs that match their skills and interests.
 
 ---
 
@@ -36,21 +29,14 @@ This Job Portal Application is designed to streamline the hiring process. Employ
 - **For Employers**
   - Post job openings with detailed descriptions.
   - Manage and review applications.
-  - Sort candidates based on qualifications.
-
-- **Admin Panel**
-  - Manage users and job listings.
-  - Monitor platform activity.
-
 ---
 
 ## Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript, React.js (or Angular/Vue.js)
-- **Backend**: Node.js, Express.js (or Django/Flask)
-- **Database**: MongoDB (or MySQL/PostgreSQL)
+- **Frontend**: HTML, CSS, JavaScript, React.js 
+- **Backend**: Node.js, Express.js 
+- **Database**: MongoDB 
 - **Authentication**: JSON Web Tokens (JWT)
-- **Hosting**: AWS / Heroku / Netlify
 
 ---
 
