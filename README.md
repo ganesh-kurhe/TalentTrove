@@ -14,7 +14,7 @@ Welcome to TalentTrove Website repositoty. TalentTrove is a dynamic web applicat
 
 ## Overview
 
-This Talenttrove Application is designed to streamline the hiring process. Employers can post job openings and review applications, while job seekers can create profiles, upload resumes, and apply to jobs that match their skills and interests.
+This TalentTrove Application is designed to streamline the hiring process. Employers can post job openings and review applications, while job seekers can create profiles, upload resumes, and apply to jobs that match their skills and interests.
 
 ---
 
